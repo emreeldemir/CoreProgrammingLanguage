@@ -1,0 +1,101 @@
+START
+
+    print("/n");
+    print("/n");
+
+    // This is comment line
+
+    print("/n");
+
+
+    print("Hello World!");
+
+    print("/n");
+
+    print("Welcome the Core Language");
+
+    print("/n");
+    print("/n");
+
+    print("Example of a comment");
+
+    print("/n");
+    print("/n");
+
+    print("-------------Lets play with numbers---------------");
+
+    print("/n");
+
+    print("-------------Lets assign and print it-------------");
+
+    print("/n");
+
+    a = 14;
+    b = 4;
+    c = a + b;
+    print (c);
+    d = 0;
+    e = a * 3;
+    print (e);
+    f = b % 3;
+    print (f);
+
+    print("/n");
+
+    g = 3 > 5;
+    print(g);
+
+    h = 4 == 4;
+    print(h);
+    k = h || g;
+    print(k);
+
+    // e = a / 0 print("This is an error"); 
+
+    print("/n");
+
+    print("-------------Lets play with if statements-----------");
+
+    print("/n");
+
+    if(a != b) {
+        print("it's in the if");
+        print (a + c);
+    }
+
+    print("/n");
+
+    print ("-------------Lets play with strings-----------------");
+
+    print("/n");
+
+    print ("hello, world!");
+
+    print("/n");
+
+    strVal = "Galatasaray";
+
+    if (d == 0) {
+        print("If block is valid");
+    } 
+
+    print("/n");
+
+    print("-------------Lets play with while loop--------------");
+
+    print("/n");
+
+    while (d < 0) {
+        d = d + 1;
+        print(d);
+    }
+
+    print("/n");
+
+
+    // Comment
+
+    print("/n");
+    print("/n");
+
+END
